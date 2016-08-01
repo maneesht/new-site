@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "main-font";
+    src: url("Work-Sans-master/fonts/webfonts/woff2/WorkSans-Regular.woff2") format("woff2");
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+* {
+    font-family: "main-font";  
+}
